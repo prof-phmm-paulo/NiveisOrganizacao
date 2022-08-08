@@ -1,0 +1,25 @@
+body{
+	background-color: #CDF6F7;
+
+}
+h1{
+	text-align: center;
+	color:  #0B95D4;
+}
+h2{
+	text-align: center;
+	color: #0BD4A6;
+}
+p{
+	text-align: right;
+	margin-left: 500px;
+}
+.corpo{
+	padding: 20px;
+}
+ul{
+	
+}
+img {
+	width: 50%;
+}
